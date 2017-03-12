@@ -1,6 +1,7 @@
 
 public class Hello{
+    String text = "Hello World";
     public Hello(){
-        System.out.println("Hello World");
+        System.out.println(text);
     }
 }
